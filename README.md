@@ -18,7 +18,6 @@ $ python3 hog_gui.py
 ```
 
 Additionally, I implemented my own final strategy against other player.
-On Terminal:
 ```
 $ python3 hog_gui.py -f
 ```
