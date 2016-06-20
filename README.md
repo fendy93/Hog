@@ -16,7 +16,7 @@ Two players alternate turns trying to reach 100 points first. On each turn, the 
 $ python3 hog_gui.py
 ```
 
-Additionally, I implemented my own final strategy against other player. To play with me,
+Additionally, I implemented my own final strategy against other player.
 ```
 $ python3 hog_gui.py -f
 ```
