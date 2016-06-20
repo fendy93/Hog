@@ -20,9 +20,3 @@ Additionally, I implemented my own final strategy against other player. To play 
 ```
 $ python3 hog_gui.py -f
 ```
-
-## Screenshots
-
-<img src="game_end.png" height="200" alt="Screenshot"/>
-<img src="game_start.png" height="200" alt="Screenshot"/>
-<img src="turn_over.png" height="200" alt="Screenshot"/>
