@@ -1,4 +1,4 @@
-# The Game of Hog
+# The Game of Ho
 Developed a simulator and multiple strategies for the dice game Hog by using control statements and higher-order functions.
 
 # Instructions
